@@ -1,0 +1,97 @@
+﻿//Don't try to remove or edit the credits.txt//
+
+//any use of the contents provided in the website without permission is prohibited//
+
+/* Copyrighted by © St.Thomas HSS Erumely 2020
+
+Motivation by : Sen Sir, principal
+
+
+Written by: Arun Paul, Jeena George, Jeswin George,Adhil Salim
+
+
+Written in: html, css, javascript, php
+
+
+Special Credits: Nisha Jose, Dominic Savio
+
+
+Content Credits: Nisha Jose
+
+
+Image Credits: Jeswin George
+
+
+Temp. Credits: Perfect Learn
+
+
+Contributed by : computer science batch 2019-2021 
+
+
+Initial release: 2020 November
+
+ * Bootstrap v4.1.0 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Validator v0.8.1 for Bootstrap 3, by @1000hz
+ * Copyright 2015 Cina Saffary
+ * Licensed under http://opensource.org/licenses/MIT
+ * https://github.com/1000hz/bootstrap-validator
+ * Isotope PACKAGED v3.0.4
+ * Licensed GPLv3 for open source use
+ * or Isotope Commercial License for commercial use
+ * http://isotope.metafizzy.co
+ * Copyright 2017 Metafizzy
+ * Magnific Popup - v1.1.0 - 2016-02-20
+ * http://dimsemenov.com/plugins/magnific-popup/
+ * Copyright (c) 2016 Dmitry Semenov; 
+ * jQuery v3.2.1 | (c) JS Foundation and other contributors | jquery.org/license
+ * Copyright (C) Federico Zivolo 2018
+ * Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+*/
+
+Sen Joseph
+HSST PHYSICS, PRINCIPAL 
+
+
+Dominic Savio
+HSST CHEMISTRY
+
+
+Jeena George
+HSST COMPUTER SCIENCE
+
+
+Nisha Jose
+HSST ENGLISH
+
+
+Arun Paul
+HSST COMPUTER SCIENCE
+
+
+Jeswin George
+COMPUTER SCIENCE STUDENT
+(2019-2021)
+
+
+Adhil Salim
+COMPUTER SCIENCE STUDENT
+(2019-2021)
+
+
+---------------------------------------------------------
+Only Edit the code(s) for updates, bug fixes.
+For support: cloudfoxapps@gmail.com
+(Adhil Salim)
+
+Use The Same Meta tags when using new temp.
+
+//IMPORTANT
+
+/* DON'T REMOVE GOOGLE*********.HTML 
+even if you're changing temp. Or the entire codes
+directory should be always root.
+*/
+
+--MADE WITH LOVE FOR ST.THOMAS HSS ERUMELY--
